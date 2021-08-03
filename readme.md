@@ -8,8 +8,7 @@ http://www.thecamp.or.kr/
 
 ## 편지 예시
 ![sample](https://user-images.githubusercontent.com/48249622/54866992-b5290480-4dbe-11e9-96e1-2e6a65a2ce1b.PNG)
-
-친구가 수료했기 때문에, 이전에 보냈던 인터넷편지를 캡쳐할 수 없네요. 
+ 
 
 ## 설정
 1. 더 캠프
